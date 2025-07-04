@@ -1,0 +1,23 @@
+[
+  {
+    "title": "To-Do List",
+    "description": "A simple app with task saving and editing using localStorage.",
+    "image": "images/todo-screenshot.png",
+    "link": "https://kalebjbakken26.github.io/InteractiveToDoApp/",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Digital Clock",
+    "description": "Real-time clock with greeting, date, and stopwatch.",
+    "image": "images/clock-screenshot.png", 
+    "link": "https://kalebjbakken26.github.io/DigitalClock/",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Digital Business Card",
+    "description": "Personal card with profile, links, and a QR code for sharing.",
+    "image": "images/card-screenshot.png",
+    "link": "https://kalebjbakken26.github.io/DigitalBusinessCard/",
+    "tags": ["HTML", "CSS"]
+  }
+]
